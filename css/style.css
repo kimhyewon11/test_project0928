@@ -15,3 +15,5 @@ img {vertical-align: middle;}
 
 
 #footer {background-color: grey;}
+#footer .center {width: 1170px; margin: 0 auto; background-color: pink;}
+#footer p {font-size: 25px;}
