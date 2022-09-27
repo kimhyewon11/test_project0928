@@ -9,5 +9,9 @@ img {vertical-align: middle;}
 #header .center {background-color: green; width: 1000px; margin: 0 auto;}
 
 #container {background-color: green;}
+#container .cont1 .center {width: 1170px; margin-top: 0 auto; background-color: tan;}
+#container .cont2 .center {width: 1170px; margin-top: 0 auto; background-color: skyblue;}
+
+
 
 #footer {background-color: grey;}
