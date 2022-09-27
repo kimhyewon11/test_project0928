@@ -6,6 +6,7 @@ img {vertical-align: middle;}
 
 
 #header {background-color: tan;}
+#header .center {background-color: green; width: 1000px; margin: 0 auto;}
 
 #container {background-color: green;}
 
